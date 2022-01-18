@@ -1,0 +1,9 @@
+title: $:/plugins/oflg/fishing-cannedfish/languages/zh-Hans
+type: application/json
+
+{
+    "cannedfish": "鱼罐头",
+    "deletecannedfish": "删除记忆包",
+    "deletecannedfishtip": "此操作不可恢复，请选择并确认",
+    "delete": "确认删除"
+}

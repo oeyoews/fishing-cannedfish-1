@@ -1,0 +1,9 @@
+title: $:/plugins/oflg/fishing-cannedfish/languages/en-GB
+type: application/json
+
+{
+    "cannedfish": "Canned fish",
+    "deletecannedfish": "Delete memory pack",
+    "deletecannedfishtip": "This operation is not reversible, please select and confirm",
+    "delete": "Confirm deletion"
+}
